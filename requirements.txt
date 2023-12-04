@@ -1,0 +1,4 @@
+pytest
+pytest-dotenv
+pytest-mock
+rich

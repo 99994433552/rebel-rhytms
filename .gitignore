@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+.Python
+
+# C extensions
+*.c
+*.h
+
+# Distribution / packaging
+.Python
+dist/
+build/
+develop-eggs/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# IDEs and text editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+*.code-workspace
+
+# Pytest
+.pytest_cache/
+
+# User
+tokens.json
+.env
+.python-version
+app.py
